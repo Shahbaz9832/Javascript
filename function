@@ -1,0 +1,6 @@
+const user={
+   username:"shahbaz"
+   prices:788
+   }
+function handleobject(anyobject){
+console.log('username is ${anyobject.username} and price is ${anyobject.price}');
